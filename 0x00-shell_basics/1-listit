@@ -1,0 +1,5 @@
+#!/bin/bash
+
+ls_current_dir=$(ls)  # get the list of directory  of the current working directory
+
+echo $ls_current_dir
